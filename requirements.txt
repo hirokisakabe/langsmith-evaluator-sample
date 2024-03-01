@@ -1,0 +1,8 @@
+openai==1.10.0
+langchain==0.1.5
+langchain-openai==0.0.5
+langsmith==0.0.86
+python-dotenv==1.0.0
+chromadb==0.4.22
+llama-index==0.9.43
+rapidfuzz==3.6.1
